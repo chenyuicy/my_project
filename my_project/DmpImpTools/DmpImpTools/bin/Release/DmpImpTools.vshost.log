@@ -1,0 +1,8 @@
+<2018-02-10 09:15:03:398 3488> Update UPDATETIME 20170630
+<2018-02-10 09:15:03:433 3488> Update FILEDATE 20170630
+<2018-02-10 09:15:03:440 3488> work begin : 2018/2/10 9:15:03
+<2018-02-10 09:15:03:929 3488> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-02-10 09:15:03:945 3488> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171226.log
+<2018-02-10 09:15:04:000 3488> D:\OracleSql\th_data_sslsd2017_7_20171226.logexp date is 20170705
+<2018-02-10 09:15:04:007 3488> D:\OracleSql\th_data_sslsd2017_7_20171226.logexp date is 20170706
+<2018-02-10 09:15:04:018 3488> th_data_sslsd2017_7_20171226.log time is not continuity

@@ -1,0 +1,208 @@
+<2018-02-10 09:23:35:242 9428> Update UPDATETIME 20170702
+<2018-02-10 09:23:35:269 9428> Update FILEDATE 20170630
+<2018-02-10 09:23:36:852 9428> work begin : 2018/2/10 9:23:36
+<2018-02-10 09:23:37:197 9428> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-02-10 09:23:37:212 9428> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171226.log
+<2018-02-10 09:23:37:221 9428> D:\OracleSql\th_data_sslsd2017_7_20171226.logexp date is 20170705
+<2018-02-10 09:23:37:228 9428> D:\OracleSql\th_data_sslsd2017_7_20171226.logexp date is 20170706
+<2018-02-10 09:23:52:658 9428> delete datebase
+<2018-02-10 09:24:41:625 9428> th_data_sslsd2017_7_20171226.dmp time is 2017/12/27 2:33:16
+<2018-02-10 09:25:50:293 9400> Update UPDATETIME 20170702
+<2018-02-10 09:25:50:319 9400> Update FILEDATE 20170630
+<2018-02-10 09:25:53:729 9400> work begin : 2018/2/10 9:25:53
+<2018-02-10 09:25:54:062 9400> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-02-10 09:25:54:066 9400> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171226.log
+<2018-02-10 09:25:54:069 9400> D:\OracleSql\th_data_sslsd2017_7_20171226.logexp date is 20170705
+<2018-02-10 09:25:54:071 9400> D:\OracleSql\th_data_sslsd2017_7_20171226.logexp date is 20170706
+<2018-02-10 09:26:24:150 9400> delete datebase
+<2018-02-10 09:26:27:852 9400> th_data_sslsd2017_7_20171226.dmp time is 2017/12/27 2:33:16
+<2018-02-10 09:26:42:712 9400> Download th_data_sslsd2017_7_20171226.dmp succeed
+<2018-02-10 10:14:46:141 9400> Update UPDATETIME 20170704
+<2018-02-10 10:14:50:369 9400> Update FILEDATE 20171227
+<2018-04-05 10:08:48:303 7876> ORA-01017: invalid username/password; logon denied
+
+<2018-04-05 10:08:48:409 7876> 无效操作。连接被关闭。
+<2018-04-05 10:09:27:171 4552> ORA-01017: invalid username/password; logon denied
+
+<2018-04-05 10:15:44:807 6772> ORA-01017: invalid username/password; logon denied
+
+<2018-04-05 10:15:51:645 6772> work begin : 2018/4/5 10:15:51
+<2018-04-05 10:22:22:536 7972> ORA-01017: invalid username/password; logon denied
+
+<2018-04-05 10:22:26:393 7972> work begin : 2018/4/5 10:22:25
+<2018-04-05 10:22:34:405 7972> ORA-01017: invalid username/password; logon denied
+
+<2018-04-05 10:44:11:499 7136> ORA-01017: invalid username/password; logon denied
+
+<2018-04-05 10:44:11:574 7136> 无效操作。连接被关闭。
+<2018-04-05 10:44:48:117 8136> Update UPDATETIME 20171229
+<2018-04-05 10:44:48:151 8136> Update FILEDATE 20170630
+<2018-04-05 10:44:53:829 8136> work begin : 2018/4/5 10:44:52
+<2018-04-05 10:45:51:933 7536> Update UPDATETIME 20171229
+<2018-04-05 10:45:51:973 7536> Update FILEDATE 20170630
+<2018-04-05 10:45:55:224 7536> work begin : 2018/4/5 10:45:54
+<2018-04-05 10:46:21:305 6208> Update UPDATETIME 20171229
+<2018-04-05 10:46:21:339 6208> Update FILEDATE 20170630
+<2018-04-05 10:46:24:132 6208> work begin : 2018/4/5 10:46:24
+<2018-04-05 10:50:19:692 7768> Update UPDATETIME 20171229
+<2018-04-05 10:50:19:733 7768> Update FILEDATE 20170630
+<2018-04-05 10:50:19:744 7768> work begin : 2018/4/5 10:50:19
+<2018-04-05 10:50:32:832 7768> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-05 10:50:38:943 7768> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-05 10:51:04:928 7768> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171227.log
+<2018-04-05 10:51:04:936 7768> D:\OracleSql\th_data_sslsd2017_7_20171227.logexp date is 导出了     
+<2018-04-05 10:51:29:201 7912> Update UPDATETIME 20171229
+<2018-04-05 10:51:29:233 7912> Update FILEDATE 20170630
+<2018-04-05 10:51:29:244 7912> work begin : 2018/4/5 10:51:29
+<2018-04-05 10:51:31:444 7912> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-05 10:51:31:447 7912> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-05 10:51:38:807 7912> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171227.log
+<2018-04-05 10:52:58:367 7912> D:\OracleSql\th_data_sslsd2017_7_20171227.logexp date is 导出了     
+<2018-04-05 10:52:58:521 7912> 该字符串未被识别为有效的 DateTime。
+<2018-04-05 11:51:16:286 7984> Update UPDATETIME 20171229
+<2018-04-05 11:51:16:337 7984> Update FILEDATE 20170630
+<2018-04-05 11:51:16:351 7984> work begin : 2018/4/5 11:51:16
+<2018-04-09 20:15:24:911 6256> Update UPDATETIME 20171227
+<2018-04-09 20:15:24:938 6256> Update FILEDATE 20170630
+<2018-04-09 20:15:24:953 6256> work begin : 2018/4/9 20:15:24
+<2018-04-09 20:16:12:358 6256> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 20:16:12:360 6256> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 20:16:12:362 6256> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 20:16:12:364 6256> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 20:16:50:605 6256> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171225.log
+<2018-04-09 20:18:03:972 6256> D:\OracleSql\th_data_sslsd2017_7_20171225.logexp date is 导出了     
+<2018-04-09 20:19:26:491 7680> Update UPDATETIME 20171227
+<2018-04-09 20:19:26:514 7680> Update FILEDATE 20170630
+<2018-04-09 20:19:26:528 7680> work begin : 2018/4/9 20:19:26
+<2018-04-09 20:19:28:187 7680> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 20:19:28:189 7680> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 20:19:28:191 7680> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 20:19:28:193 7680> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 21:58:08:010 8028> Update UPDATETIME 20171227
+<2018-04-09 21:58:08:032 8028> Update FILEDATE 20170630
+<2018-04-09 21:58:08:041 8028> work begin : 2018/4/9 21:58:08
+<2018-04-09 21:58:12:750 8028> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 21:58:12:757 8028> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 21:58:12:759 8028> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 21:58:12:763 8028> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 21:58:16:640 8028> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171225.log
+<2018-04-09 21:59:25:441 8028> D:\OracleSql\th_data_sslsd2017_7_20171225.logexp date is 20171230
+<2018-04-09 22:00:36:542 10668> Update UPDATETIME 20171229
+<2018-04-09 22:00:36:565 10668> Update FILEDATE 20170630
+<2018-04-09 22:00:36:576 10668> work begin : 2018/4/9 22:00:36
+<2018-04-09 22:00:36:598 10668> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:00:36:600 10668> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:00:36:602 10668> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:00:36:605 10668> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 22:00:45:038 10668> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171225.log
+<2018-04-09 22:00:46:884 10668> D:\OracleSql\th_data_sslsd2017_7_20171225.logexp date is 20171230
+<2018-04-09 22:01:02:414 10668> th_data_sslsd2017_7_20171225.log time is not continuity
+<2018-04-09 22:01:06:928 10668> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171226.log
+<2018-04-09 22:01:08:374 10668> D:\OracleSql\th_data_sslsd2017_7_20171226.logexp date is 20171231
+<2018-04-09 22:01:26:852 10668> th_data_sslsd2017_7_20171226.log time is not continuity
+<2018-04-09 22:01:31:730 10668> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171227.log
+<2018-04-09 22:01:44:536 10668> D:\OracleSql\th_data_sslsd2017_7_20171227.logexp date is 20171231
+<2018-04-09 22:02:11:884 10668> th_data_sslsd2017_7_20171227.log time is not continuity
+<2018-04-09 22:02:20:055 10668> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171228.log
+<2018-04-09 22:04:30:003 6604> Update UPDATETIME 20171229
+<2018-04-09 22:04:30:026 6604> Update FILEDATE 20170630
+<2018-04-09 22:04:30:039 6604> work begin : 2018/4/9 22:04:30
+<2018-04-09 22:04:30:055 6604> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:04:30:057 6604> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:04:30:059 6604> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:04:30:061 6604> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 22:04:32:021 6604> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171225.log
+<2018-04-09 22:04:38:423 6604> D:\OracleSql\th_data_sslsd2017_7_20171225.logexp date is 20171230
+<2018-04-09 22:04:48:073 6604> th_data_sslsd2017_7_20171225.log time is not continuity
+<2018-04-09 22:04:55:361 6604> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171226.log
+<2018-04-09 22:04:57:181 6604> D:\OracleSql\th_data_sslsd2017_7_20171226.logexp date is 20171231
+<2018-04-09 22:05:45:089 6604> th_data_sslsd2017_7_20171226.log time is not continuity
+<2018-04-09 22:05:54:780 6604> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171227.log
+<2018-04-09 22:06:35:097 6604> D:\OracleSql\th_data_sslsd2017_7_20171227.logexp date is PMAX
+<2018-04-09 22:11:34:612 8040> Update UPDATETIME 20171230
+<2018-04-09 22:11:34:635 8040> Update FILEDATE 20170630
+<2018-04-09 22:11:34:649 8040> work begin : 2018/4/9 22:11:34
+<2018-04-09 22:11:34:665 8040> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:11:34:667 8040> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:11:34:669 8040> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:11:34:672 8040> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 22:11:36:791 8040> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171225.log
+<2018-04-09 22:11:49:873 8040> D:\OracleSql\th_data_sslsd2017_7_20171225.logexp date is 20171230
+<2018-04-09 22:12:00:527 8040> th_data_sslsd2017_7_20171225.log time is not continuity
+<2018-04-09 22:12:02:500 8040> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171226.log
+<2018-04-09 22:12:02:507 8040> D:\OracleSql\th_data_sslsd2017_7_20171226.logexp date is 20171231
+<2018-04-09 22:12:03:941 8040> th_data_sslsd2017_7_20171226.log time is not continuity
+<2018-04-09 22:12:04:965 8040> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171227.log
+<2018-04-09 22:12:07:340 8040> D:\OracleSql\th_data_sslsd2017_7_20171227.logexp date is PMAX
+<2018-04-09 22:20:19:899 9468> Update UPDATETIME 20171227
+<2018-04-09 22:20:19:922 9468> Update FILEDATE 20170630
+<2018-04-09 22:20:19:939 9468> work begin : 2018/4/9 22:20:19
+<2018-04-09 22:20:19:961 9468> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:20:19:963 9468> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:20:19:966 9468> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:20:19:969 9468> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 22:20:22:023 9468> Parse file is D:\OracleSql\th_data_sslsd2017_7_20171225.log
+<2018-04-09 22:20:22:029 9468> D:\OracleSql\th_data_sslsd2017_7_20171225.logexp date is 20171230
+<2018-04-09 22:23:10:297 6520> Update UPDATETIME 20171231
+<2018-04-09 22:23:10:317 6520> Update FILEDATE 20170630
+<2018-04-09 22:23:10:330 6520> work begin : 2018/4/9 22:23:10
+<2018-04-09 22:23:10:348 6520> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:23:10:350 6520> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:23:10:352 6520> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:23:10:354 6520> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 22:25:04:060 10736> Update UPDATETIME 20171231
+<2018-04-09 22:25:04:083 10736> Update FILEDATE 20170630
+<2018-04-09 22:25:04:098 10736> work begin : 2018/4/9 22:25:04
+<2018-04-09 22:25:04:113 10736> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:25:04:115 10736> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:25:04:117 10736> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:25:04:119 10736> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 22:28:06:172 7668> Update UPDATETIME 20171231
+<2018-04-09 22:28:06:193 7668> Update FILEDATE 20170630
+<2018-04-09 22:28:06:202 7668> work begin : 2018/4/9 22:28:06
+<2018-04-09 22:28:06:217 7668> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:28:06:219 7668> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:28:06:221 7668> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:28:06:223 7668> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 22:32:05:210 10612> Update UPDATETIME 20171231
+<2018-04-09 22:32:05:230 10612> Update FILEDATE 20170630
+<2018-04-09 22:32:05:244 10612> work begin : 2018/4/9 22:32:05
+<2018-04-09 22:32:05:263 10612> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:32:05:265 10612> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:32:05:268 10612> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:32:05:270 10612> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 22:34:53:767 10860> Update UPDATETIME 20171231
+<2018-04-09 22:34:53:790 10860> Update FILEDATE 20170630
+<2018-04-09 22:34:53:803 10860> work begin : 2018/4/9 22:34:53
+<2018-04-09 22:34:53:820 10860> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:34:53:822 10860> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:34:53:824 10860> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:34:53:827 10860> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 22:36:33:708 684> Update UPDATETIME 20171231
+<2018-04-09 22:36:33:729 684> Update FILEDATE 20170630
+<2018-04-09 22:36:33:739 684> work begin : 2018/4/9 22:36:33
+<2018-04-09 22:36:33:757 684> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:36:33:759 684> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:36:33:762 684> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:36:33:764 684> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 22:37:47:555 7484> Update UPDATETIME 20171231
+<2018-04-09 22:37:47:587 7484> Update FILEDATE 20170630
+<2018-04-09 22:37:47:602 7484> work begin : 2018/4/9 22:37:47
+<2018-04-09 22:37:47:621 7484> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:37:47:623 7484> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:37:47:625 7484> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:37:47:628 7484> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 22:38:55:713 2152> Update UPDATETIME 20171231
+<2018-04-09 22:38:55:738 2152> Update FILEDATE 20170630
+<2018-04-09 22:38:55:751 2152> work begin : 2018/4/9 22:38:55
+<2018-04-09 22:38:55:767 2152> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:38:55:770 2152> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:38:55:772 2152> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:38:55:774 2152> Download th_data_sslsd2017_7_20171228.log succeed
+<2018-04-09 22:40:41:759 10492> Update UPDATETIME 20171231
+<2018-04-09 22:40:41:782 10492> Update FILEDATE 20170630
+<2018-04-09 22:40:41:796 10492> work begin : 2018/4/9 22:40:41
+<2018-04-09 22:40:41:814 10492> Download th_data_sslsd2017_7_20171225.log succeed
+<2018-04-09 22:40:41:816 10492> Download th_data_sslsd2017_7_20171226.log succeed
+<2018-04-09 22:40:41:818 10492> Download th_data_sslsd2017_7_20171227.log succeed
+<2018-04-09 22:40:41:820 10492> Download th_data_sslsd2017_7_20171228.log succeed
